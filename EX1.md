@@ -29,10 +29,12 @@ RENAME: This is used to rename an object existing in the database.
 
 ### OUTPUT:
 
+![d1](https://github.com/21005688/G2_DBMS/assets/94747031/84c0eaff-ec84-4650-81c2-9cadadcd9495)
+
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
-![d1](https://github.com/21005688/G2_DBMS/assets/94747031/84c0eaff-ec84-4650-81c2-9cadadcd9495)
+
 
 ### OUTPUT:
 ![d2](https://github.com/21005688/G2_DBMS/assets/94747031/50e84924-40e2-47f7-9c6e-1f98a4288777)
