@@ -34,6 +34,7 @@ RENAME: This is used to rename an object existing in the database.
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
+ALTER TABLE student ADD Department char(10);
 
 
 ### OUTPUT:
